@@ -1,3 +1,3 @@
 # toDoList
-To do list made by Vanilla JS.<br>
+To do list made with Vanilla JS.<br>
 [URL] [yds04089.github.io/toDoList](https://yds04089.github.io/toDoList/)
